@@ -1,0 +1,8 @@
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/persistencia/exceptions/IllegalOrphanException.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/logica/Empleado.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/logica/Controladora.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/persistencia/EmpleadoJpaController.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/persistencia/exceptions/PreexistingEntityException.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/Empresa.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/persistencia/exceptions/NonexistentEntityException.java
+/home/martin/NetBeansProjects/empresa/src/main/java/com/mycompany/empresa/persistencia/ControladoraPersistencia.java
